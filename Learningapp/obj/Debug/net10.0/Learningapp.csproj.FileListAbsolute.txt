@@ -95,3 +95,4 @@
 /Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/obj/Debug/net10.0/Learningapp.pdb
 /Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/obj/Debug/net10.0/Learningapp.genruntimeconfig.cache
 /Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/obj/Debug/net10.0/ref/Learningapp.dll
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/obj/Debug/net10.0/Learningapp.sourcelink.json
