@@ -1,0 +1,7 @@
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/Learningapp
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/appsettings.Development.json
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/appsettings.json
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/Learningapp.dll
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/Learningapp.deps.json
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/Learningapp.runtimeconfig.json
+/Users/omerjan/azure-dev-ops/course-az-204/practice-projects/Learningapp/bin/Publish/Learningapp.pdb
